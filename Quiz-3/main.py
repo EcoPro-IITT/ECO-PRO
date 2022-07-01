@@ -2,10 +2,7 @@ import pygame
 import csv
 import os
 import cv2
-from cvzone.HandTrackingModule import HandDetector
 import time
-import pyautogui
-
 
 DRAW_HITBOX  = False
 
