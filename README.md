@@ -12,7 +12,7 @@
 
 ## Features
 * Entire game is implemented in python
-* __OpenCV__ is used to make the more interactive so that instead of using a mouse or keyboard, the player will use his hands to control the game (Mimic real life situation)
+* __OpenCV__ is used to make the game more interactive so that instead of using a mouse or keyboard, the player will use his hands to control the game (Mimic real life situation)
 * This engages children to play games like this and learn more about eco-friendly methods.
 * __PyGame__ is used for creating the necessary graphics and UI
 * User's hand motion is tracked by the camera using _OpenCV_ (_Hand Detector_)
