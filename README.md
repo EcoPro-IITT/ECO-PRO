@@ -62,4 +62,33 @@ and you need to pop them before they escape.
     ![images in markdown](Quiz-3/Assets/Gameplay-3.jpg)
 
 
+## Installation Procedure:
+
+#### Download the repository. Structure of the repository is shown below:
+
+```
+   ECO-PRO
+   |-- Grab-the-Garbage-1
+   |-- Pop-the-Pollutant-2
+   |-- Quiz-3
+   
+```
+
+---
+
+#### 1. Seperate Each Level folder and make it as a root folder
+
+
+#### 2. Install the dependencies and ensure python version is 3.8.0
+
+```
+pygame==2.0.1
+numpy==1.21.2
+opencv-contrib-python==4.5.3.56
+opencv-python==4.5.3.56
+mediapipe==0.8.7.2
+cvzone==1.5.0
+
+```
+
 
